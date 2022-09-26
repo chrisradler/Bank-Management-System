@@ -1,0 +1,12 @@
+id password:name#balace,status
+Chris123 Miami1:Chris Radler#12207,working
+tal123 Isreal123:Tal Malol#53554,working
+Jacob1 Brickell1:Jacob Nunez#96582,working
+austin hyduke:Austin Hyduke#500,working
+austin hyduke:Austin Hyduke#500,blocked
+tommy1 radler1:Chris Radler#50000,working
+sandy1 radler:sandy radler#400,blocked
+talma 654123:Tal Malol#10,working
+kyle1 kyle2:Kyle#2000,working
+justin1 justin2:justin#4300,blocked
+danielle1 danielle2:danielle malol#400,working
