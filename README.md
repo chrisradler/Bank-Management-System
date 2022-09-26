@@ -1,9 +1,13 @@
 # Bank-Management-System
 
 All data will be saved in the according text file.
+
 Clients.txt is a file to save the necessary information for each client.
+
 Admin.txt is a file to save the necessary information for each admin.
+
 Log.txt is a file to save all of the performed actions by each client. 
+
 PendingClients.txt is a file to view all of the pending clients that want to sign up.
 
 *If you want to sign in as a client, you can use a pre-existing login from Clients.txt*
