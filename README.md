@@ -17,30 +17,39 @@ PendingClients.txt is a file to view all of the pending clients that want to sig
 
 Client Side Actions:
 
-Login or signup 
+-Login or signup 
 
-Deposit money 
+-Deposit money 
 
-Withdrawal money
+-Withdrawal money
 
-Print statement
+-Print statement
 
-Check balance
+-Check balance
 
-Delete my account
+-Delete my account
 
-Update your account 
+-Update your account 
 
 
 Admin Side Actions:
 
 Login
-To see all of the present accounts
-Block an account
-Print the statement of a specific account
-Unblock the account
-Delete the account
-Find the best clients and worst clients
-Average balance of the client
-See pending requests
-Approve or decline a request
+
+-To see all of the present accounts
+
+-Block an account
+
+-Print the statement of a specific account
+
+-Unblock the account
+
+-Delete the account
+
+-Find the best clients and worst clients
+
+-Average balance of the client
+
+-See pending requests
+
+-Approve or decline a request
