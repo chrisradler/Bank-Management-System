@@ -17,13 +17,13 @@ PendingClients.txt is a file to view all of the pending clients that want to sig
 
 Client Side Actions:
 
-Login or signup 
-Deposit money 
-Withdrawal money
-Print statement
-Check balance
-Delete my account
-Update your account 
+-Login or signup 
+-Deposit money 
+-Withdrawal money
+-Print statement
+-Check balance
+-Delete my account
+-Update your account 
 
 
 Admin Side Actions:
