@@ -1,7 +1,7 @@
 /******************************************************************************
-Note: This programe is practice project of what I have learned so far,
+Note: This program is practice project of what I have been learning,
 Its basically  a very simple bank system with many assumpsutions and limited functionalities.
-I'm  Practicing Parallel Vectors as I have not  started the OOP so far ,So I'm not using structures or classes
+I'm  Practicing Parallel Vectors , So I'm not using structures or classes or any OOP.
 
 
 *******************************************************************************/
@@ -879,17 +879,5 @@ do{
 }while(sel != 0);
 
 
-
-
-
-/*
-
-displayAdmin(adminID, adminPassword, adminName);
-clientLogin(id, password, name, balance, status);
-adminLogin(adminID, adminPassword, adminName);
-cin.ignore();
-clientSignUp(id, password, name, balance, status);
-displayClient(id, password, name, balance, status);
-*/
     return 0;
 }
