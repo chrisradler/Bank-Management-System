@@ -1,7 +1,7 @@
 /******************************************************************************
 Note: This program is practice project of what I have been learning,
 Its basically  a very simple bank system with many assumpsutions and limited functionalities.
-I'm  Practicing Parallel Vectors , So I'm not using structures or classes or any OOP.
+I'm  Practicing Parallel Vectors , So I'm not using structures, classes or any OOP.
 
 
 *******************************************************************************/
